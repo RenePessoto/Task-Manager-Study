@@ -28,7 +28,7 @@ Um gerenciador de tarefas simples via linha de comando (CLI) usando **Python**, 
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/renepessoto/gerenciador_tarefas.git
+git clone https://github.com/RenePessoto/gerenciador_tarefas.git
 cd gerenciador_tarefas
 ```
 
@@ -112,7 +112,7 @@ gerenciador_tarefas/
 
 ## 👨‍💻 Autor
 
-Desenvolvido por [Rene pessoto](https://github.com/renepessoto) — buscando dominar Python e se tornar engenheiro de software 💻🚀
+Desenvolvido por [Rene Pessoto](https://github.com/RenePessoto) — buscando dominar Python e se tornar engenheiro de software 💻🚀
 
 ---
 
